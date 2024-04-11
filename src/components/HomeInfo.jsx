@@ -13,6 +13,8 @@ const HomeInfo = ({ currentStage }) => {
         A Software Engineer from Kenya 
         <br />
         <span className='text-sm text-white font-semibold'>(Use Arrows to move around)</span>
+        <br />
+        <span className='text-sm text-white'>or better still, swipe left or right to move around</span>
       </h1>
     );
 
