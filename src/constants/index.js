@@ -111,7 +111,7 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "Frontend Developer",
+        title: "Frontend Developer Intern",
         company_name: "Skyscanner",
         icon: starbucks,
         iconBg: "#ffefd5",
@@ -123,7 +123,7 @@ export const experiences = [
         ],
     },
     {
-        title: "Backend Engineer",
+        title: "Backend Engineer Intern",
         icon: tesla,
         iconBg: "#fbc3bc",
         date: "Oct 2023 - Nov 2023",
@@ -134,7 +134,7 @@ export const experiences = [
         ],
     },
     {
-        title: "Software Engineer",
+        title: "Software Engineer Intern",
         company_name: "Walmart",
         icon: shopify,
         iconBg: "#000039",
@@ -146,11 +146,11 @@ export const experiences = [
         ],
     },
     {
-        title: "Full stack Developer",
+        title: "Full stack Developer Intern",
         company_name: "Azprod",
         icon: meta,
         iconBg: "#1974d2",
-        date: "Sep 2023 - Present",
+        date: "Sep 2023 - Mar 2024",
         points: [
             "Developing a robust PDF parsing module capable of accurately extracting information from diverse PDF formats, including text, images, and other relevant data.",
             "Integrating advanced NLP algorithms to enable the Chatbot to comprehend user queries, interpret PDF content, and generate contextually relevant responses.",
