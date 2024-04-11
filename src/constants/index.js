@@ -111,7 +111,7 @@ export const skills = [
 
 export const experiences = [
     {
-        title: "Frontend Developer Intern",
+        title: "Frontend Developer Simulation",
         company_name: "Skyscanner",
         icon: starbucks,
         iconBg: "#ffefd5",
@@ -123,7 +123,7 @@ export const experiences = [
         ],
     },
     {
-        title: "Backend Engineer Intern",
+        title: "Backend Engineer Simulation",
         icon: tesla,
         iconBg: "#fbc3bc",
         date: "Oct 2023 - Nov 2023",
@@ -134,7 +134,7 @@ export const experiences = [
         ],
     },
     {
-        title: "Software Engineer Intern",
+        title: "Software Engineer Simulation",
         company_name: "Walmart",
         icon: shopify,
         iconBg: "#000039",
@@ -183,7 +183,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'Azprod',
         description: 'Developing a robust PDF parsing module capable of accurately extracting information from diverse PDF formats, including text, images, and other relevant data.',
-        link: 'https://azprod-mu.vercel.app/',
+        link: 'https://azprod-cyan.vercel.app/',
     },
     {
         iconUrl: threads,
